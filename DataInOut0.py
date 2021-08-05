@@ -3,7 +3,7 @@
 #  Contains routines for reading/writing from/to pdb files
 #  Copyright Titus Beu, 2019
 #------------------------------------------------------------------------------
-from struct import *
+from struct import *    
 from DataTypes0 import *
 
 #==============================================================================
