@@ -49,7 +49,7 @@ ind1 = [0, 1, 4]
 ind2 = [0, 2, 5]
 ind3 = [0, 3, 6]
 
-title = "final "
+title = "final"
 
 PlotStruct(x,y,z,n,ind1,ind2,ind3,n3,
            0e0,0e0,0,0e0,0e0,0,0.55,0.95,0.05,0.42,title)
